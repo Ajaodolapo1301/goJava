@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#004172</color>
+    <color name="diesel">#F05A28</color>
+    <color name="gas"> #1175C0</color>
+
+    <color name="order"> #1D1D1D</color>
+
+    <color name="payment">#3AB449</color>
+    <color name="numberColor"> #EB3B00</color>
+
+    #EB3B00
+
+
+</resources>
